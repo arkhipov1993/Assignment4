@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.Test.dll
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.Test.pdb
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.exe
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.pdb
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\obj\Debug\Assignment4.Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\obj\Debug\Assignment4.Test.dll
+\\Mac\Home\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\obj\Debug\Assignment4.Test.pdb

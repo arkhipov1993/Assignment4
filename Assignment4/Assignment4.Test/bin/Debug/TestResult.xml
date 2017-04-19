@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="Y:\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-04-19" time="12:06:17">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files\NUnit 2.6.4\bin" machine-name="EVGENYARKHI430C" user="Evgeny" user-domain="EVGENYARKHI430C" />
+  <culture-info current-culture="ru-RU" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="Y:\Documents\College\Semestr2\Quality Assurance\Assignment4\Assignment4\Assignment4.Test\bin\Debug\Assignment4.Test.dll" executed="True" result="Success" success="True" time="0.056" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Assignment4" executed="True" result="Success" success="True" time="0.050" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.049" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TriangleSolverTest" executed="True" result="Success" success="True" time="0.046" asserts="0">
+                <results>
+                  <test-case name="Assignment4.Test.TriangleSolverTest.Equilateral" executed="True" result="Success" success="True" time="0.033" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
